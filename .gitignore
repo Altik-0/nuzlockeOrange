@@ -1,0 +1,20 @@
+# Build products
+*.o
+*.a
+*.elf
+*.nds
+*.exe
+*.arm9
+
+DS_nuzlockeOrange/build/
+DS_nuzlockeOrange/Debug/
+
+# Visual Studio generated files
+*.sln
+*.sdf
+*.suo
+*.vcxproj*
+*.opensdf
+
+# Other weird files
+
